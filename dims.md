@@ -11,6 +11,7 @@
 ### KBParadise V80
 
 ### Filco Majestouch/2, Ninja
+Same as Phantom
 
 ### Keycool 87
 
