@@ -1,5 +1,3 @@
-### Filco TKL
-
 ### CM Quickfire Rapid, Rapid-i
 
 ### WASD V2
