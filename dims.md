@@ -1,5 +1,7 @@
 ### CM Quickfire Rapid, Rapid-i
 
+Same as Phantom (Filco standard)
+
 ### WASD V2
 
 ### Leopold FC750R
@@ -9,11 +11,14 @@
 ### KBParadise V80
 
 ### Filco Majestouch/2, Ninja
-Same as Phantom
+Same as Phantom (Filco standard)
 
 ### Keycool 87
 
 ### Phantom
+
+(Filco standard)
+
 8mm diameter
 holes at: x50, y17; x261, y17; x31, y78; x261, y103;
 
