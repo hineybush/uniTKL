@@ -14,6 +14,7 @@ Universal TKL (tenkeyless) keyboard case.
 * NerD TKL
 * B.87
 * WASD Code TKL
+* Varmilo VA87M
 * Others possible, drop me a line to have it added.
 
 # Current Status
