@@ -2,7 +2,6 @@
 Universal TKL (tenkeyless) keyboard case.
 
 # Compatibility
-* Filco TKL
 * CM Quickfire Rapid, Rapid-i
 * WASD V2
 * Leopold FC750R
