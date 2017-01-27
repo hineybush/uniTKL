@@ -20,10 +20,10 @@ Same as Phantom (Filco standard)
 (Filco standard)
 
 8mm diameter
-holes at: x50, y17; x261, y17; x31, y78; x261, y103;
+holes at: (50, 17); (261, 17); )31, 78); (261, 103);
 
 5mm diameter
-hole at: x167, y17
+hole at: (167, 17)
 
 all measurements from left edge and top of PCB
 
