@@ -38,7 +38,7 @@ thanks to /u/holyfuxk!
 ### Varmilo VA87M
 
 ### PLU 87
-dux;464152
+
 Plu Dimensions:
 size of PCB 122 * 345 mm , one or 2 mm more would not be a problem
 size of plate 128 * 349 mm, the 128 should be rather precise cut
